@@ -1,0 +1,71 @@
+:root {
+    --wattle-green: #00B159;
+    --flower-yellow: #FFC518;
+    --desert-orange: #F36F3A;
+    --dust-red: #E01D43;
+    --lorikeet-blue: #5B57A5;
+    --side-width: 250px;
+    --header-height: 100px;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Catamaran:400,400i,700|PT+Sans:400,700&display=swap");
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Catamaran";
+    font-size: 14pt;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: "PT Sans";
+}
+
+hr {
+    margin: 40px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: var(--side-width) 2fr var(--side-width);
+    grid-template-rows: var(--header-height) max-content var(--header-height);
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas: ". header ." ". body ." ". footer .";
+}
+
+.header {
+    grid-area: header;
+    background: var(--wattle-green);
+}
+
+.body {
+    grid-area: body;
+    padding: 15px;
+}
+
+.footer {
+    grid-area: footer;
+    background: var(--flower-yellow);
+}
+
+.snake {
+    padding: 30px 0px 30px 0
+}
+
+.snake img {
+    height: 80px;
+    margin-left: -15px;
+}
+
+.logo {
+    margin: auto;
+    width: 200px
+}
+
+.logo img {
+    height: 100px;
+}
