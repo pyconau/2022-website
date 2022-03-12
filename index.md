@@ -37,4 +37,7 @@ March 2022
 
 ---
 
+Feeling nostalgic? Go back to PyCon's AU past [on our YouTube channel](https://www.youtube.com/c/PyConAU/playlists).
+
+
 [new-meetup]: https://github.com/pyconau/2022-website/issues/new?labels=new-meetup-request&template=new-meetup.md&title=Add+new+meetup%3A+
