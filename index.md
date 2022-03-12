@@ -37,4 +37,4 @@ March 2022
 
 ---
 
-[new-meetup]: https://github.com/pyconau/2022-website/issues/new
+[new-meetup]: https://github.com/pyconau/2022-website/issues/new?labels=new-meetup-request&template=new-meetup.md&title=Add+new+meetup%3A+
