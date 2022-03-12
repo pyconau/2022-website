@@ -30,5 +30,6 @@
 National Conference: [Kiwi PyCon XI](https://python.nz) August 2022, Christchurch
 
 * [Auckland Python User Group](https://www.meetup.com/NZPUG-Auckland/)
+* [Christchurch Python User Group](https://www.meetup.com/NZPUG-Christchurch/)
 * [Hamilton Python User Group](https://www.meetup.com/NZPUG-Hamilton/)
 * [Wellington Python User Group](https://www.meetup.com/NZPUG-Wellington/)
