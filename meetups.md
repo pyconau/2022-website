@@ -19,6 +19,7 @@
 
 * [Melbourne Python Charmers](https://www.meetup.com/Melbourne-Python-Meetup-Group/)
 * [PyLadies Melbourne](https://www.meetup.com/PyLadies-Melbourne/)
+* [MicroPython Meetup](https://www.meetup.com/MicroPython-Meetup/)
 
 ### Perth
 
