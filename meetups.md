@@ -9,6 +9,10 @@
 * [Brisbane Python User Group](https://www.meetup.com/Brisbane-Python-User-Group/)
 * [Brisbane PyLadies](https://www.meetup.com/BrisbanePyLadies/)
 
+### Canberra
+
+* [Canberra Python User Group](https://www.meetup.com/Canberra-Python-Meetup-Group/)
+
 ### Sydney
 
 * [Sydney Python (SyPy)](https://www.meetup.com/sydneypython/)
